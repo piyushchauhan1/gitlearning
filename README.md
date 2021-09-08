@@ -5,6 +5,12 @@
 - g++ compiler
 - RapidXML (Required to parse the XML Configuration file)
 
+## Instructions for RapidXML:
+
+- Download the RapidXML distribution to a folder in your computer.
+- Copy the path of the "rapidxml.hpp" file.
+- Paste the path in line 16 of opengl.cpp where I have provided a sample path.
+
 ## Compilation:
 
 - To compile the code, `cd` to the root of the project directory and execute the following command (in the terminal),
